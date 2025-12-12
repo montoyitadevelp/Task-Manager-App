@@ -104,14 +104,7 @@ This method is for running the app in a virtual device on your computer.
         ```bash
         npm run ios
         ```
-
-#### 🌐 Running on the Web
-
--   To run the app in your web browser, execute:
-    ```bash
-    npm run web
-    ```
-
+        
 ## 📚 Third-Party Libraries
 
 This project is built with the help of these amazing libraries:
