@@ -1,4 +1,4 @@
-# TaskManagerAPP 📝
+# TaskManagerApp 📝
 
 [![React Native](https://img.shields.io/badge/React_Native-0.81.5-blue?logo=react&logoColor=white)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-54.0.27-blue?logo=expo&logoColor=white)](https://expo.dev/)
@@ -117,7 +117,6 @@ This method is for running the app in a virtual device on your computer.
 This project is built with the help of these amazing libraries:
 
 -   **[Expo](https://expo.dev/):** A framework and a platform for universal React applications.
--   **[React](https://reactjs.org/):** A JavaScript library for building user interfaces.
 -   **[React Native](https://reactnative.dev/):** A framework for building native apps using React.
 -   **[NativeWind](https://www.nativewind.dev/):** Enables using Tailwind CSS for styling in React Native.
 -   **[React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/):** Used for creating smooth animations. (Note: The usage of this library was removed due to some issues, but it is still listed as a dependency).
